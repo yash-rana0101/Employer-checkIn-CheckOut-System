@@ -25,6 +25,6 @@ This project determines an employee's total work hours by using their check-in a
 With the use of this initiative, businesses can effectively monitor and control worker attendance and schedules.
 
 ### Output 
-In this project you can find a ```codeOutput.txt``` file in this file you can see the output of the following SQL code.
+In this project you can find a ```CodeOutput.txt``` file in this file you can see the output of the following SQL code.
 
 
